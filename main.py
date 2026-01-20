@@ -990,4 +990,5 @@ if __name__ == "__main__":
     Path("cache").mkdir(exist_ok=True)
     
     # Run the bot
+
     asyncio.run(main())
